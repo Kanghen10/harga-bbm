@@ -1,52 +1,45 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Harga BBM</title>
-  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harga BBM</title>
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div class="container">
+<header>
+  <h1>Harga BBM Indonesia</h1>
+  <div id="update-info">Memuat data...</div>
+</header>
 
-  <div class="header">
-    <h2 id="title">Loading...</h2>
+<section class="filter">
+  <select id="filter-wilayah">
+    <option value="ALL">Lihat Semua Wilayah</option>
+  </select>
 
-    <div class="controls">
+  <select id="filter-jenis">
+    <option value="ALL">Lihat Semua</option>
+    <option value="GASOLINE">Gasoline</option>
+    <option value="GASOIL">Gas Oil</option>
+  </select>
+</section>
 
-      <input list="wilayahList" id="search" placeholder="Cari wilayah...">
-      <datalist id="wilayahList"></datalist>
-
-      <select id="typeSelect">
-        <option value="0">Gasoline</option>
-        <option value="1">Gasoil</option>
-      </select>
-
-      <select id="bbmFilter">
-        <option value="all">Semua BBM</option>
-      </select>
-
-      <select id="sort">
-        <option value="default">Urutan Default</option>
-        <option value="asc">Termurah</option>
-        <option value="desc">Termahal</option>
-      </select>
-
-      <button id="refreshBtn">🔄</button>
-<button id="toggleTheme">🌙</button>
-
-    </div>
-  </div>
-
-  <div class="table-container">
-    <table>
-      <thead id="thead"></thead>
-      <tbody id="tbody"></tbody>
-    </table>
-  </div>
-
-</div>
+<section class="table-section">
+  <table>
+    <thead>
+      <tr id="table-head">
+        <th>Wilayah</th>
+        <th>Kolom 1</th>
+        <th>Kolom 2</th>
+        <th>Kolom 3</th>
+        <th>Kolom 4</th>
+      </tr>
+    </thead>
+    <tbody id="bbm-body"></tbody>
+  </table>
+</section>
 
 <script src="script.js"></script>
 </body>

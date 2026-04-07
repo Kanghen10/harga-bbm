@@ -1,213 +1,124 @@
-const DATA_URL = "datahargabbm.txt";
+async function loadBBM() {
+  const url = "https://kanghen10.github.io/harga-bbm/datahargabbm.txt";
 
-let rawData = [];
-let currentType = 0;
+  try {
+    const res = await fetch(url);
+    const text = await res.text();
 
-const titleEl = document.getElementById("title");
-const thead = document.getElementById("thead");
-const tbody = document.getElementById("tbody");
-const searchInput = document.getElementById("search");
-const wilayahList = document.getElementById("wilayahList");
-const typeSelect = document.getElementById("typeSelect");
-const bbmFilter = document.getElementById("bbmFilter");
-const sortSelect = document.getElementById("sort");
-const toggleTheme = document.getElementById("toggleTheme");
-const refreshBtn = document.getElementById("refreshBtn");
+    // FIX parsing (karena ada ":" di depan)
+    const json = JSON.parse(text.replace(/^:\s*/, ''));
 
-function getTodayDate() {
-  return new Date().toLocaleDateString('id-ID', {
-    day: '2-digit',
-    month: 'long',
-    year: 'numeric'
-  });
-}
+    const gasolineData = json.data.content.l9RNzkhMqY.props.items[0].data;
+    const gasoilData = json.data.content.l9RNzkhMqY.props.items[1].data;
 
-async function loadData() {
-  const res = await fetch(DATA_URL);
-  const json = await res.json();
+    const tbody = document.getElementById("bbm-body");
+    const wilayahSelect = document.getElementById("filter-wilayah");
+    const jenisSelect = document.getElementById("filter-jenis");
+    const tableHead = document.getElementById("table-head");
 
-  let productTable = null;
+    let wilayahSet = new Set();
 
-  for (let key in json.data.content) {
-    if (json.data.content[key].type?.resolvedName === "ProductTable") {
-      productTable = json.data.content[key].props.items;
-      break;
-    }
-  }
-
-  rawData = productTable;
-
-  titleEl.innerText = "Update per tanggal " + getTodayDate();
-
-  setupFilter();
-  renderTable();
-}
-
-function setupFilter() {
-  const data = rawData[currentType].data;
-
-  wilayahList.innerHTML = "";
-  wilayahList.innerHTML += `<option value="Lihat Semua">`;
-
-  data.forEach(row => {
-    wilayahList.innerHTML += `<option value="${row.WILAYAH}">`;
-  });
-
-  // BBM FILTER
-  bbmFilter.innerHTML = '<option value="all">Semua BBM</option>';
-
-  const headers = Object.keys(data[0]);
-  headers.forEach(h => {
-    if (h !== "WILAYAH") {
-      bbmFilter.innerHTML += `<option value="${h}">${formatHeader(h)}</option>`;
-    }
-  });
-}
-
-refreshBtn.addEventListener("click", () => {
-  loadData();
-});
-
-function renderTable() {
-  const selected = rawData[currentType];
-  let data = [...selected.data];
-
-  const keyword = searchInput.value.toLowerCase();
-
-  if (keyword && keyword !== "lihat semua") {
-    data = data.filter(r => r.WILAYAH.toLowerCase().includes(keyword));
-  }
-
-  const bbm = bbmFilter.value;
-
-  let keys = Object.keys(data[0]);
-
-  if (bbm !== "all") {
-    keys = ["WILAYAH", bbm];
-  }
-
-  // SORT
-  if (sortSelect.value !== "default") {
-    data.sort((a, b) => {
-      const valA = getFirstNumber(a, keys);
-      const valB = getFirstNumber(b, keys);
-
-      return sortSelect.value === "asc" ? valA - valB : valB - valA;
+    // gabung wilayah dari semua data
+    [...gasolineData, ...gasoilData].forEach(row => {
+      wilayahSet.add(row["WILAYAH"]);
     });
-  }
-searchInput.addEventListener("change", () => {
-  if (searchInput.value.toLowerCase() === "lihat semua") {
-    searchInput.value = "";
-  }
 
-  renderTable();
+    wilayahSet.forEach(w => {
+      let opt = document.createElement("option");
+      opt.value = w;
+      opt.textContent = w;
+      wilayahSelect.appendChild(opt);
+    });
 
-  // ❗ HILANGKAN KURSOR + KEYBOARD
-  searchInput.blur();
+    function render() {
+      const filterWilayah = wilayahSelect.value;
+      const filterJenis = jenisSelect.value;
 
-  // reset isi supaya bisa cari lagi
-  setTimeout(() => {
-    searchInput.value = "";
-  }, 300);
-});
+      tbody.innerHTML = "";
 
-  // HEADER
-  thead.innerHTML = "<tr>" + keys.map(k => `<th>${formatHeader(k)}</th>`).join("") + "</tr>";
+      let dataSource = gasolineData;
+      let mode = "GASOLINE";
 
-  renderRows(data, keys);
-}
-
-function renderRows(data, keys) {
-  tbody.innerHTML = "";
-
-  let numbers = [];
-
-  data.forEach(row => {
-    keys.forEach(k => {
-      if (k !== "WILAYAH") {
-        const val = parseInt(row[k].replace(/,/g, ""));
-        if (!isNaN(val)) numbers.push(val);
+      if (filterJenis === "GASOIL") {
+        dataSource = gasoilData;
+        mode = "GASOIL";
       }
-    });
-  });
 
-  const min = Math.min(...numbers);
-  const max = Math.max(...numbers);
+      // update header tabel
+      if (mode === "GASOIL") {
+        tableHead.innerHTML = `
+          <th>Wilayah</th>
+          <th>Pertamina Dex</th>
+          <th>Dexlite</th>
+          <th>Bio Solar</th>
+          <th>-</th>
+        `;
+      } else {
+        tableHead.innerHTML = `
+          <th>Wilayah</th>
+          <th>Pertamax</th>
+          <th>Pertalite</th>
+          <th>Turbo</th>
+          <th>Green</th>
+        `;
+      }
 
-  data.forEach(row => {
-    let tr = "<tr>";
+      dataSource.forEach(row => {
+        const wilayah = row["WILAYAH"];
+        if (filterWilayah !== "ALL" && wilayah !== filterWilayah) return;
 
-    keys.forEach(k => {
-      let val = row[k];
+        let tr = document.createElement("tr");
 
-      let num = parseInt(val?.replace(/,/g, ""));
+        if (mode === "GASOIL") {
+          const dex = Object.values(row).find((v, i) => Object.keys(row)[i].includes("dex.png")) || "-";
+          const dexlite = Object.values(row).find((v, i) => Object.keys(row)[i].includes("dexlite")) || "-";
+          const biosolar = Object.values(row).find((v, i) => Object.keys(row)[i].includes("bio")) || "-";
 
-      let cls = "";
+          tr.innerHTML = `
+            <td>${wilayah}</td>
+            <td>${dex}</td>
+            <td>${dexlite}</td>
+            <td>${biosolar}</td>
+            <td>-</td>
+          `;
+        } else {
+          const pertamax = Object.values(row).find((v, i) => Object.keys(row)[i].includes("pertamax.png")) || "-";
+          const pertalite = Object.values(row).find((v, i) => Object.keys(row)[i].includes("pertalite.png")) || "-";
+          const turbo = Object.values(row).find((v, i) => Object.keys(row)[i].includes("turbo.png")) || "-";
+          const green = Object.values(row).find((v, i) => Object.keys(row)[i].includes("green")) || "-";
 
-      if (num === min) cls = "min";
-      if (num === max) cls = "max";
+          tr.innerHTML = `
+            <td>${wilayah}</td>
+            <td>${pertamax}</td>
+            <td>${pertalite}</td>
+            <td>${turbo}</td>
+            <td>${green}</td>
+          `;
+        }
 
-      tr += `<td class="${cls}">${val}</td>`;
-    });
-
-    tr += "</tr>";
-    tbody.innerHTML += tr;
-  });
-}
-
-function getFirstNumber(row, keys) {
-  for (let k of keys) {
-    if (k !== "WILAYAH") {
-      let n = parseInt(row[k].replace(/,/g, ""));
-      if (!isNaN(n)) return n;
+        tbody.appendChild(tr);
+      });
     }
+
+    wilayahSelect.addEventListener("change", render);
+    jenisSelect.addEventListener("change", render);
+
+    // tanggal hari ini
+    const today = new Date().toLocaleDateString("id-ID", {
+      day: "numeric",
+      month: "long",
+      year: "numeric"
+    });
+
+    document.getElementById("update-info").textContent =
+      "Update per " + today;
+
+    render();
+
+  } catch (err) {
+    console.error(err);
+    document.getElementById("update-info").textContent = "Gagal memuat data";
   }
-  return 0;
 }
 
-function formatHeader(key) {
-  if (key === "WILAYAH") return "Wilayah";
-  if (key.includes("turbo")) return "Turbo";
-  if (key.includes("green")) return "Green 95";
-  if (key.includes("pertamax.png")) return "Pertamax";
-  if (key.includes("pertalite")) return "Pertalite";
-  if (key.includes("dex.png")) return "Dex";
-  if (key.includes("dexlite")) return "Dexlite";
-  if (key.includes("bio")) return "Bio Solar";
-  return "BBM";
-}
-
-/* EVENTS */
-searchInput.addEventListener("input", renderTable);
-typeSelect.addEventListener("change", (e) => {
-  currentType = parseInt(e.target.value);
-  setupFilter();
-  renderTable();
-});
-bbmFilter.addEventListener("change", renderTable);
-sortSelect.addEventListener("change", renderTable);
-
-toggleTheme.addEventListener("click", () => {
-  document.body.classList.toggle("light");
-});
-
-/* INIT */
-loadData();
-
-// 🔒 KIOSK MODE - MATIKAN TOTAL PULL TO REFRESH
-
-let startY = 0;
-
-document.addEventListener("touchstart", (e) => {
-  startY = e.touches[0].clientY;
-}, { passive: false });
-
-document.addEventListener("touchmove", (e) => {
-  const currentY = e.touches[0].clientY;
-
-  const scrollTop = document.querySelector(".table-container").scrollTop;
-
-// block gesture overscroll di root
-document.body.addEventListener("touchmove", function(e) {
-  e.preventDefault();
-}, { passive: false });
+loadBBM();
