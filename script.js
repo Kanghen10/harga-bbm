@@ -65,13 +65,7 @@ function setupFilter() {
 }
 
 refreshBtn.addEventListener("click", () => {
-  refreshBtn.classList.add("spin");
-
   loadData();
-
-  setTimeout(() => {
-    refreshBtn.classList.remove("spin");
-  }, 600);
 });
 
 function renderTable() {
@@ -201,16 +195,19 @@ toggleTheme.addEventListener("click", () => {
 loadData();
 
 // ❗ MATIKAN PULL TO REFRESH (ANDROID)
+const tableContainer = document.querySelector(".table-container");
+
 let startY = 0;
 
-document.addEventListener("touchstart", (e) => {
+tableContainer.addEventListener("touchstart", (e) => {
   startY = e.touches[0].clientY;
 }, { passive: true });
 
-document.addEventListener("touchmove", (e) => {
-  const y = e.touches[0].clientY;
+tableContainer.addEventListener("touchmove", (e) => {
+  const currentY = e.touches[0].clientY;
 
-  if (window.scrollY === 0 && y > startY) {
+  // jika di paling atas & tarik ke bawah → block
+  if (tableContainer.scrollTop === 0 && currentY > startY) {
     e.preventDefault();
   }
 }, { passive: false });
