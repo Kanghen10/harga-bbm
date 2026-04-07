@@ -140,3 +140,7 @@ tbody tr:hover {
     padding: 10px;
   }
 }
+
+html, body {
+  overscroll-behavior: none;
+}

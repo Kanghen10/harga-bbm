@@ -12,6 +12,7 @@ const typeSelect = document.getElementById("typeSelect");
 const bbmFilter = document.getElementById("bbmFilter");
 const sortSelect = document.getElementById("sort");
 const toggleTheme = document.getElementById("toggleTheme");
+const refreshBtn = document.getElementById("refreshBtn");
 
 function getTodayDate() {
   return new Date().toLocaleDateString('id-ID', {
@@ -63,6 +64,10 @@ function setupFilter() {
   });
 }
 
+refreshBtn.addEventListener("click", () => {
+  loadData();
+});
+
 function renderTable() {
   const selected = rawData[currentType];
   let data = [...selected.data];
@@ -97,7 +102,10 @@ searchInput.addEventListener("change", () => {
 
   renderTable();
 
-  // RESET supaya bisa cari lagi langsung
+  // ❗ HILANGKAN KURSOR + KEYBOARD
+  searchInput.blur();
+
+  // reset isi supaya bisa cari lagi
   setTimeout(() => {
     searchInput.value = "";
   }, 300);
