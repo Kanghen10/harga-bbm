@@ -8,6 +8,7 @@ html, body {
   height: 100%;
   overflow: hidden;
   overscroll-behavior: none;
+  touch-action: none;
 }
 
 /* DEFAULT DARK */
@@ -83,6 +84,7 @@ button {
   flex: 1;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
 }
 
 table {

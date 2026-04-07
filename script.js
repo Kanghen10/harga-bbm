@@ -194,20 +194,20 @@ toggleTheme.addEventListener("click", () => {
 /* INIT */
 loadData();
 
-// ❗ MATIKAN PULL TO REFRESH (ANDROID)
-const tableContainer = document.querySelector(".table-container");
+// 🔒 KIOSK MODE - MATIKAN TOTAL PULL TO REFRESH
 
 let startY = 0;
 
-tableContainer.addEventListener("touchstart", (e) => {
+document.addEventListener("touchstart", (e) => {
   startY = e.touches[0].clientY;
-}, { passive: true });
+}, { passive: false });
 
-tableContainer.addEventListener("touchmove", (e) => {
+document.addEventListener("touchmove", (e) => {
   const currentY = e.touches[0].clientY;
 
-  // jika di paling atas & tarik ke bawah → block
-  if (tableContainer.scrollTop === 0 && currentY > startY) {
-    e.preventDefault();
-  }
+  const scrollTop = document.querySelector(".table-container").scrollTop;
+
+// block gesture overscroll di root
+document.body.addEventListener("touchmove", function(e) {
+  e.preventDefault();
 }, { passive: false });
