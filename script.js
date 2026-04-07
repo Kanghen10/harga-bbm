@@ -1,4 +1,4 @@
-const API_URL = "https://pertaminapatraniaga.com/api/api/v1/post/get-by-slug/page/harga-terbaru-bbm?language=en";
+const DATA_URL = "datahargabbm.txt";
 
 let rawData = [];
 let currentType = 0;
@@ -9,66 +9,63 @@ const tbody = document.getElementById("tbody");
 const searchInput = document.getElementById("search");
 const typeSelect = document.getElementById("typeSelect");
 
+function getTodayDate() {
+  const d = new Date();
+  const options = { day: '2-digit', month: 'long', year: 'numeric' };
+  return d.toLocaleDateString('id-ID', options);
+}
+
 async function loadData() {
   try {
-    const res = await fetch(API_URL);
-    const json = await res.json();
+    const res = await fetch(DATA_URL);
+    const text = await res.text();
+    const json = JSON.parse(text);
 
     const content = json.data.content;
-    const nodes = content;
 
-    // cari ProductTable
     let productTable = null;
-    for (let key in nodes) {
-      if (nodes[key].type?.resolvedName === "ProductTable") {
-        productTable = nodes[key].props.items;
+    for (let key in content) {
+      if (content[key].type?.resolvedName === "ProductTable") {
+        productTable = content[key].props.items;
         break;
       }
     }
 
     rawData = productTable;
 
-    titleEl.innerText = json.data.title;
+    titleEl.innerText = "Update per tanggal " + getTodayDate();
 
     renderTable();
 
   } catch (err) {
-    titleEl.innerText = "Gagal load data";
+    titleEl.innerText = "Gagal load data (cek datahargabbm.txt)";
     console.error(err);
   }
 }
 
 function renderTable() {
   const selected = rawData[currentType];
-
   if (!selected) return;
 
   const data = selected.data;
-
-  // ambil header
   const keys = Object.keys(data[0]);
 
-  // HEADER
   thead.innerHTML = "<tr>" + keys.map(k => `<th>${formatHeader(k)}</th>`).join("") + "</tr>";
 
-  // BODY
   renderRows(data);
 }
 
 function renderRows(data) {
   const keyword = searchInput.value.toLowerCase();
-
   tbody.innerHTML = "";
 
   data.forEach(row => {
     if (!row.WILAYAH.toLowerCase().includes(keyword)) return;
 
     let tr = "<tr>";
-
     Object.values(row).forEach(val => {
       tr += `<td>${val}</td>`;
     });
-
     tr += "</tr>";
 
     tbody.innerHTML += tr;
@@ -90,9 +87,7 @@ function formatHeader(key) {
 }
 
 /* EVENT */
-searchInput.addEventListener("input", () => {
-  renderTable();
-});
+searchInput.addEventListener("input", renderTable);
 
 typeSelect.addEventListener("change", (e) => {
   currentType = parseInt(e.target.value);
