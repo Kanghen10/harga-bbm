@@ -65,7 +65,13 @@ function setupFilter() {
 }
 
 refreshBtn.addEventListener("click", () => {
+  refreshBtn.classList.add("spin");
+
   loadData();
+
+  setTimeout(() => {
+    refreshBtn.classList.remove("spin");
+  }, 600);
 });
 
 function renderTable() {
@@ -193,3 +199,18 @@ toggleTheme.addEventListener("click", () => {
 
 /* INIT */
 loadData();
+
+// ❗ MATIKAN PULL TO REFRESH (ANDROID)
+let startY = 0;
+
+document.addEventListener("touchstart", (e) => {
+  startY = e.touches[0].clientY;
+}, { passive: true });
+
+document.addEventListener("touchmove", (e) => {
+  const y = e.touches[0].clientY;
+
+  if (window.scrollY === 0 && y > startY) {
+    e.preventDefault();
+  }
+}, { passive: false });
