@@ -1,10 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* DEFAULT DARK */
+body {
+  background: #0f172a;
+  color: #fff;
+}
+
+/* LIGHT MODE */
 body.light {
   background: #f1f5f9;
   color: #111;
 }
 
+/* FULLSCREEN */
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* HEADER */
+.header {
+  padding: 15px;
+  background: #111827;
+  border-bottom: 1px solid #1f2937;
+}
+
 body.light .header {
   background: #ffffff;
+}
+
+.header h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #38bdf8;
+}
+
+/* CONTROLS */
+.controls {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.controls input,
+.controls select,
+.controls button {
+  flex: 1;
+  min-width: 120px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  background: #1f2937;
+  color: white;
+}
+
+body.light .controls input,
+body.light .controls select,
+body.light .controls button {
+  background: #e2e8f0;
+  color: black;
+}
+
+/* BUTTON */
+button {
+  cursor: pointer;
+}
+
+/* TABLE */
+.table-container {
+  flex: 1;
+  overflow-y: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* HEADER FIXED */
+thead th {
+  position: sticky;
+  top: 0;
+  background: #1e293b;
+  color: #38bdf8;
+  padding: 12px;
+  font-size: 13px;
+  text-align: left;
+  z-index: 10;
 }
 
 body.light thead th {
@@ -12,21 +101,28 @@ body.light thead th {
   color: #0f172a;
 }
 
+/* ROW */
+tbody td {
+  padding: 12px;
+  font-size: 13px;
+  border-bottom: 1px solid #1f2937;
+}
+
+/* STRIPED */
+tbody tr:nth-child(even) {
+  background: #020617;
+}
+
 body.light tbody tr:nth-child(even) {
   background: #f8fafc;
 }
 
-/* tombol */
-button {
-  padding: 10px;
-  border-radius: 8px;
-  border: none;
-  background: #38bdf8;
-  color: black;
-  cursor: pointer;
+/* HOVER */
+tbody tr:hover {
+  background: #1e293b;
 }
 
-/* highlight */
+/* HIGHLIGHT */
 .min {
   background: #16a34a !important;
   color: white;
@@ -35,4 +131,12 @@ button {
 .max {
   background: #dc2626 !important;
   color: white;
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+  thead th, tbody td {
+    font-size: 12px;
+    padding: 10px;
+  }
 }

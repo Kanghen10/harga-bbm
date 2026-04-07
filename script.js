@@ -45,19 +45,21 @@ async function loadData() {
 function setupFilter() {
   const data = rawData[currentType].data;
 
-  wilayahList.innerHTML = '<option value="Lihat Semua">';
+  wilayahList.innerHTML = "";
+  wilayahList.innerHTML += `<option value="Lihat Semua">`;
+
+  data.forEach(row => {
+    wilayahList.innerHTML += `<option value="${row.WILAYAH}">`;
+  });
+
+  // BBM FILTER
   bbmFilter.innerHTML = '<option value="all">Semua BBM</option>';
 
   const headers = Object.keys(data[0]);
-
   headers.forEach(h => {
     if (h !== "WILAYAH") {
       bbmFilter.innerHTML += `<option value="${h}">${formatHeader(h)}</option>`;
     }
-  });
-
-  data.forEach(row => {
-    wilayahList.innerHTML += `<option value="${row.WILAYAH}">`;
   });
 }
 
@@ -88,6 +90,18 @@ function renderTable() {
       return sortSelect.value === "asc" ? valA - valB : valB - valA;
     });
   }
+searchInput.addEventListener("change", () => {
+  if (searchInput.value.toLowerCase() === "lihat semua") {
+    searchInput.value = "";
+  }
+
+  renderTable();
+
+  // RESET supaya bisa cari lagi langsung
+  setTimeout(() => {
+    searchInput.value = "";
+  }, 300);
+});
 
   // HEADER
   thead.innerHTML = "<tr>" + keys.map(k => `<th>${formatHeader(k)}</th>`).join("") + "</tr>";
