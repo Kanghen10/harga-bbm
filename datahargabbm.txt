@@ -63,7 +63,7 @@
         "props": {
           "sizeWidth": "1/1",
           "align": "left",
-          "text": "Update per tanggal 18 April 2026",
+          "text": "Update per tanggal 4 Mei 2026",
           "fontWeight": "bold",
           "headingType": "h3",
           "variant": "default",
@@ -171,283 +171,283 @@
               "data": [
                 {
                   "WILAYAH": "Prov. Aceh",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Free Trade Zone (FTZ) Sabang",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "11,550",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 11,550 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sumatera Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sumatera Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,750 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Riau",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,750 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Kepulauan Riau",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,750 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Free Trade Zone (FTZ) Batam",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "18,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "11,750",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 18,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 11,750 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Jambi",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Bengkulu",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sumatera Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Bangka-Belitung",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Lampung",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. DKI Jakarta",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Banten",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Jawa Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Jawa Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. DI Yogyakarta",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Jawa Timur",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Bali",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Nusa Tenggara Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 19,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,300 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Nusa Tenggara Timur",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,750 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Timur",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,750 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Gorontalo",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Tenggara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Maluku",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Maluku Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Papua",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " 20,350 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Pegunungan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Barat Daya",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": " 12,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": " 10,000 "
                 }
               ],
               "title": "Gasoline"
@@ -456,243 +456,243 @@
               "data": [
                 {
                   "WILAYAH": "Prov. Aceh",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Free Trade Zone (FTZ) Sabang",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "22,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 24,400 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sumatera Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sumatera Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 29,100 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 27,150 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Riau",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 29,100 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 27,150 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Kepulauan Riau",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 29,100 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 27,150 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Free Trade Zone (FTZ) Batam",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "22,700",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "22,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 26,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 24,700 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Jambi",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Bengkulu",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sumatera Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Bangka-Belitung",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Lampung",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. DKI Jakarta",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Banten",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Jawa Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Jawa Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. DI Yogyakarta",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Jawa Timur",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Bali",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Nusa Tenggara Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 27,900 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,000 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Nusa Tenggara Timur",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 29,100 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 27,150 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Timur",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Kalimantan Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 29,100 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 27,150 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Gorontalo",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Tenggara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Sulawesi Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Maluku",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Maluku Utara",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Papua",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Barat",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Selatan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Pegunungan",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Tengah",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 },
                 {
                   "WILAYAH": "Prov. Papua Barat Daya",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
-                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " 28,500 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": " 26,600 ",
+                  "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": " 6,800 "
                 }
               ],
               "title": "Gasoil"
@@ -776,8 +776,8 @@
     "typeDisplay": "Halaman",
     "i81n": [
       {
-        "postId": "6ce7cd2a-79ad-48d8-536b-08dc9bbe901b",
-        "title": "Latest Fuel Price",
+        "postId": "2792833d-f0c8-450d-1cd9-08dea8d3a332",
+        "title": "Update as of May 4, 2026",
         "excerpt": null,
         "content": {
           "ROOT": {
@@ -837,7 +837,7 @@
             "props": {
               "sizeWidth": "1/1",
               "align": "left",
-              "text": "Update as of April 18, 2026",
+              "text": "Update as of May 4, 2026",
               "fontWeight": "bold",
               "headingType": "h3",
               "variant": "default",
@@ -945,281 +945,281 @@
                   "data": [
                     {
                       "REGION": "Prov. Aceh",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Free Trade Zone (FTZ) Sabang",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "11,550",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sumatera Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sumatera Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,750",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Riau",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,750",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Kepulauan Riau",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,750",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Free Trade Zone (FTZ) Batam",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "18,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "18,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "11,750",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Jambi",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Bengkulu",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sumatera Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Bangka-Belitung",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Lampung",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. DKI Jakarta",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Banten",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Jawa Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Jawa Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. DI Yogyakarta",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Jawa Timur",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Bali",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Nusa Tenggara Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,400",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,300",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Nusa Tenggara Timur",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Kalimantan Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Kalimantan Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Kalimantan Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,750",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Kalimantan Timur",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Kalimantan Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,250",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,750",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,900",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sulawesi Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Gorontalo",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sulawesi Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sulawesi Tenggara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sulawesi Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Sulawesi Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Maluku",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Maluku Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Papua",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "19,850",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "20,350",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Papua Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Papua Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Papua Pegunungan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Papua Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     },
                     {
                       "REGION": "Prov. Papua Barat Daya",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": "-",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": "-",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-turbo.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax-green-95.png": " -   ",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamax.png": "12,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertalite.png": "10,000"
                     }
@@ -1230,242 +1230,242 @@
                   "data": [
                     {
                       "REGION": "Prov. Aceh",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Free Trade Zone (FTZ) Sabang",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "22,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,400",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sumatera Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sumatera Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "29,100",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "27,150",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Riau",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "29,100",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "27,150",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Kepulauan Riau",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "29,100",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "27,150",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Free Trade Zone (FTZ) Batam",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "22,700",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "22,450",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "26,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,700",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Jambi",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Bengkulu",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sumatera Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Bangka-Belitung",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Lampung",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. DKI Jakarta",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Banten",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Jawa Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Jawa Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. DI Yogyakarta",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Jawa Timur",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Bali",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Nusa Tenggara Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "23,900",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "23,600",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "27,900",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,000",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Nusa Tenggara Timur",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Kalimantan Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Kalimantan Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Kalimantan Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "29,100",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "27,150",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Kalimantan Timur",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Kalimantan Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,950",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,650",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "29,100",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "27,150",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sulawesi Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Gorontalo",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sulawesi Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sulawesi Tenggara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sulawesi Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Sulawesi Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Maluku",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Maluku Utara",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Papua",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Papua Barat",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Papua Selatan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Papua Pegunungan",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Papua Tengah",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "0",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": " -   ",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     },
                     {
                       "REGION": "Prov. Papua Barat Daya",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "24,450",
-                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "24,150",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-dex.png": "28,500",
+                      "https://pertaminapatraniaga.com/file/files/2024/08/product-table-dexlite.png": "26,600",
                       "https://pertaminapatraniaga.com/file/files/2024/08/product-table-pertamina-bio-solar.png": "6,800"
                     }
                   ],
@@ -1527,16 +1527,16 @@
       }
     ],
     "postReaction": null,
-    "startDate": "2026-04-17T18:21:48.0649723+00:00",
+    "startDate": "2026-05-03T18:02:09.3438425+00:00",
     "endDate": null,
     "pinned": false,
     "featured": false,
     "reacted": false,
-    "createdDate": "2024-07-04T07:16:34.3206896+00:00",
-    "createdBy": "admin",
-    "modifiedDate": "2026-04-17T18:21:48.0901794+00:00",
+    "createdDate": "2026-05-03T17:01:29.2126173+00:00",
+    "createdBy": "f05b5ef8-ea96-4c98-b0b4-affe9d838c17",
+    "modifiedDate": "2026-05-03T18:02:09.3890583+00:00",
     "modifiedBy": "f05b5ef8-ea96-4c98-b0b4-affe9d838c17",
-    "id": "6ce7cd2a-79ad-48d8-536b-08dc9bbe901b"
+    "id": "2792833d-f0c8-450d-1cd9-08dea8d3a332"
   },
   "statusCode": 200
 }
